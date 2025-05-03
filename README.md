@@ -2,6 +2,12 @@
 
 This project is a Netflix-style movie app that allows users to browse, search and mark movies as favorites, with a clean interface and responsive design.
 
+### 🖼️ Preview
+
+![demo1](./assets/demo1.JPG)
+
+![demo2](./assets/demo2.JPG)
+
 ### ✨ Watch how it works
 
 ![Demo](./assets/demo.gif)
