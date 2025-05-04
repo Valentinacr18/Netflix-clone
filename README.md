@@ -53,13 +53,11 @@ backend/
 
 ## 🔧 Tools & Libraries Used
 
-- Frontend: React, TypeScript, React Router, CSS Modules
+- Frontend: React, TypeScript, React Router
 
-- Backend: Node.js, Express, MongoDB, Mongoose
+- Backend: Node.js, Express, MongoDB
 
 - Database: MongoDB (local)
-
-- Design & UI: custom CSS
 
 - Media: Embedded YouTube trailers
 
