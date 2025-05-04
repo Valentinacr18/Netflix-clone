@@ -53,7 +53,7 @@ backend/
 
 ## 🔧 Tools & Libraries Used
 
-- Frontend: React, TypeScript, React Router
+- Frontend: React, TypeScript
 
 - Backend: Node.js, Express, MongoDB
 
