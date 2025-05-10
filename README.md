@@ -15,7 +15,6 @@ This project is a Netflix-style movie app that allows users to browse, search an
 ---
 
 ## 📁 Folder Structure
-
 ```bash
 frontend/
 ├── public/                  # Static assets (images, icons, etc.)
@@ -49,8 +48,7 @@ backend/
 │       └── movie.routes.ts
 └── index.ts   # Entry point for Express server
 ```
-
-
+---
 ## 🔧 Tools & Libraries Used
 
 - Frontend: React, TypeScript
