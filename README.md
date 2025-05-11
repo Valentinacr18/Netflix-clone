@@ -58,7 +58,7 @@ backend/
 - Database: MongoDB (local)
 
 - Media: Embedded YouTube trailers
-
+---
 ## ⚠️ Disclaimer
 
 All movie posters, trailers, and media content used in this project belong to their respective owners.
