@@ -15,7 +15,6 @@ This project is a Netflix-style movie app that allows users to browse, search an
 ---
 
 ## 📁 Folder Structure
-
 ```bash
 frontend/
 ├── public/                  # Static assets (images, icons, etc.)
@@ -49,20 +48,17 @@ backend/
 │       └── movie.routes.ts
 └── index.ts   # Entry point for Express server
 ```
-
-
+---
 ## 🔧 Tools & Libraries Used
 
-- Frontend: React, TypeScript, React Router, CSS Modules
+- Frontend: React, TypeScript
 
-- Backend: Node.js, Express, MongoDB, Mongoose
+- Backend: Node.js, Express, MongoDB
 
 - Database: MongoDB (local)
 
-- Design & UI: custom CSS
-
 - Media: Embedded YouTube trailers
-
+---
 ## ⚠️ Disclaimer
 
 All movie posters, trailers, and media content used in this project belong to their respective owners.
