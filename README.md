@@ -49,6 +49,7 @@ backend/
 └── index.ts   # Entry point for Express server
 ```
 ---
+
 ## 🔧 Tools & Libraries Used
 
 - Frontend: React, TypeScript
@@ -58,7 +59,9 @@ backend/
 - Database: MongoDB (local)
 
 - Media: Embedded YouTube trailers
+
 ---
+
 ## ⚠️ Disclaimer
 
 All movie posters, trailers, and media content used in this project belong to their respective owners.
