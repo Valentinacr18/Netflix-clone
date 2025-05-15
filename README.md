@@ -68,6 +68,8 @@ All movie posters, trailers, and media content used in this project belong to th
 This project is not affiliated with or endorsed by Netflix.
 It was built purely for educational purposes as a Netflix clone with custom styling and features for learning frontend/backend development.
 
+---
+
 ## 🔗 Useful Resources
 
 - [React Docs](https://reactjs.org/docs/getting-started.html) – Core concepts and components.
