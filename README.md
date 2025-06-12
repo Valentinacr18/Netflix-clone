@@ -13,7 +13,6 @@ This project is a Netflix-style movie app that allows users to browse, search an
 ![Demo](./assets/demo.gif)
 
 ---
-
 ## 📁 Folder Structure
 ```bash
 frontend/
