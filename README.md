@@ -1,5 +1,4 @@
 # 🎬 MyFlix (Netflix Clone)
-
 This project is a Netflix-style movie app that allows users to browse, search and mark movies as favorites, with a clean interface and responsive design.
 
 ### 🖼️ Preview
@@ -61,7 +60,6 @@ backend/
 
 ---
 ## ⚠️ Disclaimer
-
 All movie posters, trailers, and media content used in this project belong to their respective owners.
 This project is not affiliated with or endorsed by Netflix.
 It was built purely for educational purposes as a Netflix clone with custom styling and features for learning frontend/backend development.
